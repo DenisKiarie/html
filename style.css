@@ -1,0 +1,19 @@
+img{
+    width: 400;
+    height: 400px;
+}
+body{
+    color: rgb(31, 54, 75);
+}
+h1{
+    font-family: Arial, "Times New Roman";
+    font-size: 40px;
+    font-style: italic;
+    text-align: left;
+    text-decoration: none;
+}
+p{
+    font-size: 22px;
+    line-height: 30px;
+    text-indent: 30px;
+}
